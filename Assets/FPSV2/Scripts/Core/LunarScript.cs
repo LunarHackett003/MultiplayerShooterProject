@@ -19,11 +19,11 @@ public abstract class LunarScript : MonoBehaviour
     internal abstract void AfterFrame();
 
 
-    private void OnEnable()
+    protected virtual void OnEnable()
     {
         LunarManager.Subscribe(this);
     }
-    private void OnDisable()
+    protected virtual void OnDisable()
     {
         LunarManager.Unsubscribe(this);
     }

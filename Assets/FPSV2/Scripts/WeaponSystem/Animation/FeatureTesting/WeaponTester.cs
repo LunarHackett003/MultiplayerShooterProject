@@ -76,7 +76,7 @@ public class WeaponTester : LunarScript
 
     internal override void AfterFrame()
     {
-
+        UpdateWeaponPose();
     }
 
     internal override void OnFrame()
@@ -86,7 +86,7 @@ public class WeaponTester : LunarScript
             SwitchState();
         }
 
-        UpdateWeaponPose();
+
     }
 
     internal override void OnTick()
@@ -98,6 +98,8 @@ public class WeaponTester : LunarScript
     {
         currentAim = Mathf.Clamp01(currentAim + (Time.deltaTime * currentGun.aimSpeed * (Input.GetMouseButton(1) ? 1 : -1)));
 
+        currentGun.fireInput = Input.GetMouseButton(0);
+        currentGun.aimInput = Input.GetMouseButton(1);
 
         switch (CurrentState)
         {
@@ -123,14 +125,5 @@ public class WeaponTester : LunarScript
 
         t1.SetPositionAndRotation(Vector3.MoveTowards(t1.position, primaryLerpToPos, posLerpSpeed * Time.deltaTime), Quaternion.RotateTowards(t1.rotation, primaryLerpToRot, rotLerpSpeed * Time.deltaTime));
         t2.SetPositionAndRotation(Vector3.MoveTowards(t2.position, secondaryLerpToPos, posLerpSpeed * Time.deltaTime), Quaternion.RotateTowards(t2.rotation, secondaryLerpToRot, rotLerpSpeed * Time.deltaTime));
-    }
-
-    private void OnValidate()
-    {
-        if (Application.isPlaying)
-            return;
-
-        if (t1 != null && t2 != null)
-            UpdateWeaponPose();
     }
 }
