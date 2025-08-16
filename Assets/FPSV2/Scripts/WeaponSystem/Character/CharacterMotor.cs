@@ -8,17 +8,12 @@ public class CharacterMotor : LunarScript
     public Vector2 lookAngle;
     Vector2 oldLook, lookDelta;
 
+
+
     public float moveSpeed;
 
     #region Input
-    public void GetMoveInput(InputAction.CallbackContext context)
-    {
-        MoveCharacter(context.ReadValue<Vector2>());
-    }
-    public void GetLookInput(InputAction.CallbackContext context)
-    {
-        RotateCharacter(context.ReadValue<Vector2>());
-    }
+
 
     #endregion
 
@@ -29,11 +24,15 @@ public class CharacterMotor : LunarScript
 
     internal override void AfterFrame()
     {
-
+        if(InputHandler.LookInput != Vector2.zero)
+        {
+            RotateCharacter(InputHandler.LookInput * Time.deltaTime);
+        }
     }
 
     internal override void OnFrame()
     {
+
     }
 
     internal override void OnTick()
@@ -41,9 +40,9 @@ public class CharacterMotor : LunarScript
 
     }
 
-    public void MoveCharacter(Vector2 input)
+    public void MoveCharacter()
     {
-        transform.position += moveSpeed * Time.deltaTime * ((transform.forward * input.y) + (transform.right * input.x));
+        
     }
 
     public void RotateCharacter(Vector2 input)

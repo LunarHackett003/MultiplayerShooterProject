@@ -8,15 +8,24 @@ public abstract class LunarScript : MonoBehaviour
     /// <summary>
     /// Similar to update: called when the frame happens.
     /// </summary>
-    internal abstract void OnFrame();
+    internal virtual void OnFrame()
+    {
+
+    }
     /// <summary>
     /// Similar to FixedUpdate: called 1/timestep times a second.
     /// </summary>
-    internal abstract void OnTick();
+    internal virtual void OnTick()
+    {
+
+    }
     /// <summary>
     /// Similar to LateUpdate: called just after OnFrame.
     /// </summary>
-    internal abstract void AfterFrame();
+    internal virtual void AfterFrame()
+    {
+
+    }
 
 
     protected virtual void OnEnable()
