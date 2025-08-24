@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 093e13eff7daa15438a3f73e27f2082e
+AssetOrigin:
+  serializedVersion: 1
+  productId: 299310
+  packageName: Toolkit for Steamworks 2025 (for Unity 6+)
+  packageVersion: 4.1.4
+  assetPath: Packages/com.heathen.steamworks/Runtime/StringKeyValuePair.cs
+  uploadId: 771989

@@ -1,0 +1,21 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3930136735",
+    "Type": "User",
+    "GUID": "{DEE3C79A-A5EB-4162-A651-00A4CD5F50BF}",
+    "Language": "SFX",
+    "Hash": "{91ABFE10-22E1-BC1C-70D9-91E4B3051A07}",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\Dialogue",
+    "ShortName": "Dialogue",
+    "Path": "Dialogue.bnk"
+   }
+  ],
+  "FileHash": "{03625C1C-1B97-102C-B6D2-F9A12A5F5672}"
+ }
+}

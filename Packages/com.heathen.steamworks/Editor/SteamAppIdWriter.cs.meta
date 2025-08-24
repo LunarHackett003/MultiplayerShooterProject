@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: d7c46da16924d734083b9f8836b56a60
+AssetOrigin:
+  serializedVersion: 1
+  productId: 299310
+  packageName: Toolkit for Steamworks 2025 (for Unity 6+)
+  packageVersion: 4.1.4
+  assetPath: Packages/com.heathen.steamworks/Editor/SteamAppIdWriter.cs
+  uploadId: 771989

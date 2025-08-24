@@ -1,0 +1,21 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "436743010",
+    "Type": "User",
+    "GUID": "{86082E47-6419-4931-B448-DD67CCBCDB99}",
+    "Language": "SFX",
+    "Hash": "{B3B7C545-181F-C932-2E56-415E412177BD}",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\Character",
+    "ShortName": "Character",
+    "Path": "Character.bnk"
+   }
+  ],
+  "FileHash": "{28B3053C-A463-2B5B-A752-7A4A7D2E8C48}"
+ }
+}

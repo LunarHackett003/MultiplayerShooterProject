@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 1210d1ce640101d4b82a5f29013d1eae
+AssetOrigin:
+  serializedVersion: 1
+  productId: 299310
+  packageName: Toolkit for Steamworks 2025 (for Unity 6+)
+  packageVersion: 4.1.4
+  assetPath: Packages/com.heathen.steamworks/Runtime/API.Voice.cs
+  uploadId: 771989

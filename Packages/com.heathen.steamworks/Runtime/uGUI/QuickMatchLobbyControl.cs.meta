@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: ce20e71416625744d8d486090e9c774e
+AssetOrigin:
+  serializedVersion: 1
+  productId: 299310
+  packageName: Toolkit for Steamworks 2025 (for Unity 6+)
+  packageVersion: 4.1.4
+  assetPath: Packages/com.heathen.steamworks/Runtime/uGUI/QuickMatchLobbyControl.cs
+  uploadId: 771989

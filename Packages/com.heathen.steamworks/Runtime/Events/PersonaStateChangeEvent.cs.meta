@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: c68033fbb0f8ecf4b94442d9c3da940b
+AssetOrigin:
+  serializedVersion: 1
+  productId: 299310
+  packageName: Toolkit for Steamworks 2025 (for Unity 6+)
+  packageVersion: 4.1.4
+  assetPath: Packages/com.heathen.steamworks/Runtime/Events/PersonaStateChangeEvent.cs
+  uploadId: 771989

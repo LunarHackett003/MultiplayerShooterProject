@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 38b5f0074a7c4d24eba1eee1af0ae3e7
+AssetOrigin:
+  serializedVersion: 1
+  productId: 299310
+  packageName: Toolkit for Steamworks 2025 (for Unity 6+)
+  packageVersion: 4.1.4
+  assetPath: Packages/com.heathen.steamworks/Runtime/RemoteStorageFile.cs
+  uploadId: 771989

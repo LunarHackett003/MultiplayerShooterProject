@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: d5361f3d149ba434aac2caf76c0e912d
+AssetOrigin:
+  serializedVersion: 1
+  productId: 299310
+  packageName: Toolkit for Steamworks 2025 (for Unity 6+)
+  packageVersion: 4.1.4
+  assetPath: Packages/com.heathen.steamworks/Runtime/UserAndPointerData.cs
+  uploadId: 771989

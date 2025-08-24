@@ -19,6 +19,9 @@ public class InputHandler : MonoBehaviour
     public delegate void MenuToggled(bool toggled);
     public static MenuToggled OnMenuToggle;
 
+
+    public static bool ToggleSprint;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {

@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: b7d74d6d6ad973b44af766d55d0da3ef
+AssetOrigin:
+  serializedVersion: 1
+  productId: 299310
+  packageName: Toolkit for Steamworks 2025 (for Unity 6+)
+  packageVersion: 4.1.4
+  assetPath: Packages/com.heathen.steamworks/Runtime/Events/LobbyChatMsgEvent.cs
+  uploadId: 771989

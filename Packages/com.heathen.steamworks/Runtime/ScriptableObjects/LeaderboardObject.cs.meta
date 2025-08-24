@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 74db9acd0c6972c449f7d85fe248a7a3
+AssetOrigin:
+  serializedVersion: 1
+  productId: 299310
+  packageName: Toolkit for Steamworks 2025 (for Unity 6+)
+  packageVersion: 4.1.4
+  assetPath: Packages/com.heathen.steamworks/Runtime/ScriptableObjects/LeaderboardObject.cs
+  uploadId: 771989

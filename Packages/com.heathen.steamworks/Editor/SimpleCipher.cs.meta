@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 80eec2da927bdd946b08f03f1a346ccb
+AssetOrigin:
+  serializedVersion: 1
+  productId: 299310
+  packageName: Toolkit for Steamworks 2025 (for Unity 6+)
+  packageVersion: 4.1.4
+  assetPath: Packages/com.heathen.steamworks/Editor/SimpleCipher.cs
+  uploadId: 771989

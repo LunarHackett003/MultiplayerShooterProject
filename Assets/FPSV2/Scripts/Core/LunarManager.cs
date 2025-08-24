@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 
 /// <summary>
@@ -43,17 +44,17 @@ public class LunarManager : MonoBehaviour
     public FixedUpdateDelegate OnTick;
     public LateUpdateDelegate AfterFrame;
 
-    public static void Subscribe(LunarScript self)
+    public static void Subscribe(UpdateDelegate onFrame, FixedUpdateDelegate onTick, LateUpdateDelegate afterFrame)
     {
-        _instance.OnFrame += self.OnFrame;
-        _instance.OnTick += self.OnTick;
-        _instance.AfterFrame += self.AfterFrame;
+        _instance.OnFrame += onFrame;
+        _instance.OnTick += onTick;
+        _instance.AfterFrame += afterFrame;
     }
-    public static void Unsubscribe(LunarScript self)
+    public static void Unsubscribe(UpdateDelegate onFrame, FixedUpdateDelegate onTick, LateUpdateDelegate afterFrame)
     {
-        _instance.OnFrame -= self.OnFrame;
-        _instance.OnTick -= self.OnTick;
-        _instance.AfterFrame -= self.AfterFrame;
+        _instance.OnFrame -= onFrame;
+        _instance.OnTick -= onTick;
+        _instance.AfterFrame -= afterFrame;
     }
     private void Update()
     {

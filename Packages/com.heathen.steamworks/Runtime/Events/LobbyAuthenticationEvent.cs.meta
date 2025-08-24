@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: d3fe00eb32e5f274fb1bfe32cfedd07b
+AssetOrigin:
+  serializedVersion: 1
+  productId: 299310
+  packageName: Toolkit for Steamworks 2025 (for Unity 6+)
+  packageVersion: 4.1.4
+  assetPath: Packages/com.heathen.steamworks/Runtime/Events/LobbyAuthenticationEvent.cs
+  uploadId: 771989

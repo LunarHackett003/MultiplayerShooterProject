@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 75a86210882173d4199954e0a444c748
+AssetOrigin:
+  serializedVersion: 1
+  productId: 299310
+  packageName: Toolkit for Steamworks 2025 (for Unity 6+)
+  packageVersion: 4.1.4
+  assetPath: Packages/com.heathen.steamworks/Runtime/ValvePriceCategories.cs
+  uploadId: 771989

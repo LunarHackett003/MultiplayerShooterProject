@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 39fb1ad66db4de34db533bac587bd011
+AssetOrigin:
+  serializedVersion: 1
+  productId: 299310
+  packageName: Toolkit for Steamworks 2025 (for Unity 6+)
+  packageVersion: 4.1.4
+  assetPath: Packages/com.heathen.steamworks/Runtime/Events/WorkshopItemKeyValueTag.cs
+  uploadId: 771989

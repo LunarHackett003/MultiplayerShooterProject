@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 875677f33105c5b45bb7e7641fc75837
+AssetOrigin:
+  serializedVersion: 1
+  productId: 299310
+  packageName: Toolkit for Steamworks 2025 (for Unity 6+)
+  packageVersion: 4.1.4
+  assetPath: Packages/com.heathen.steamworks/Runtime/ScriptableObjects/AchievementObject.cs
+  uploadId: 771989

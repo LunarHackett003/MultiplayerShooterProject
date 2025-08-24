@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 6c93a744941d3694292c9591195fc437
+AssetOrigin:
+  serializedVersion: 1
+  productId: 299310
+  packageName: Toolkit for Steamworks 2025 (for Unity 6+)
+  packageVersion: 4.1.4
+  assetPath: Packages/com.heathen.steamworks/Runtime/Events/GameServerChangeRequestedEvent.cs
+  uploadId: 771989

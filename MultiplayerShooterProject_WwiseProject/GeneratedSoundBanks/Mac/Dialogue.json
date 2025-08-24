@@ -1,0 +1,21 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3930136735",
+    "Type": "User",
+    "GUID": "{DEE3C79A-A5EB-4162-A651-00A4CD5F50BF}",
+    "Language": "SFX",
+    "Hash": "{91ABFE10-22E1-BC1C-70D9-91E4B3051A07}",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\Dialogue",
+    "ShortName": "Dialogue",
+    "Path": "Dialogue.bnk"
+   }
+  ],
+  "FileHash": "{596304DC-2C16-AEA4-072A-347859676468}"
+ }
+}

@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 30c6b5382e9b5be4cb5f033716295302
+AssetOrigin:
+  serializedVersion: 1
+  productId: 299310
+  packageName: Toolkit for Steamworks 2025 (for Unity 6+)
+  packageVersion: 4.1.4
+  assetPath: Packages/com.heathen.steamworks/Runtime/Events/HTML_JSAlertEvent.cs
+  uploadId: 771989

@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: c4deff0e84c51b74993da1ad7f279a50
+AssetOrigin:
+  serializedVersion: 1
+  productId: 299310
+  packageName: Toolkit for Steamworks 2025 (for Unity 6+)
+  packageVersion: 4.1.4
+  assetPath: Packages/com.heathen.steamworks/Runtime/uGUI/LobbyMemberSlot.cs
+  uploadId: 771989

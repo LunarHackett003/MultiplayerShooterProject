@@ -30,10 +30,10 @@ public abstract class LunarScript : MonoBehaviour
 
     protected virtual void OnEnable()
     {
-        LunarManager.Subscribe(this);
+        LunarManager.Subscribe(OnFrame, OnTick, AfterFrame);
     }
     protected virtual void OnDisable()
     {
-        LunarManager.Unsubscribe(this);
+        LunarManager.Unsubscribe(OnFrame, OnTick, AfterFrame);
     }
 }

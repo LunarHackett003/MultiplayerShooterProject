@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: a4fac257d97515e40be610e3bee5aa6d
+AssetOrigin:
+  serializedVersion: 1
+  productId: 299310
+  packageName: Toolkit for Steamworks 2025 (for Unity 6+)
+  packageVersion: 4.1.4
+  assetPath: Packages/com.heathen.steamworks/Runtime/InputActionEvent.cs
+  uploadId: 771989

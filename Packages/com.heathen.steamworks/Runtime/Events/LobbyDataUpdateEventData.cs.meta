@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 45204d554a879884db71b6946941be4f
+AssetOrigin:
+  serializedVersion: 1
+  productId: 299310
+  packageName: Toolkit for Steamworks 2025 (for Unity 6+)
+  packageVersion: 4.1.4
+  assetPath: Packages/com.heathen.steamworks/Runtime/Events/LobbyDataUpdateEventData.cs
+  uploadId: 771989

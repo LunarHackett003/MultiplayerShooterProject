@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 4fa639f214dea944aa42935e0c3d6fe0
+AssetOrigin:
+  serializedVersion: 1
+  productId: 299310
+  packageName: Toolkit for Steamworks 2025 (for Unity 6+)
+  packageVersion: 4.1.4
+  assetPath: Packages/com.heathen.steamworks/Runtime/NumericFilter.cs
+  uploadId: 771989

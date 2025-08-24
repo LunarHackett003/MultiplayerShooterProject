@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 4c77cdc5e11638240ab5cb0cf4adfb88
+AssetOrigin:
+  serializedVersion: 1
+  productId: 299310
+  packageName: Toolkit for Steamworks 2025 (for Unity 6+)
+  packageVersion: 4.1.4
+  assetPath: Packages/com.heathen.steamworks/Runtime/Events/InventoryChangedEvent.cs
+  uploadId: 771989

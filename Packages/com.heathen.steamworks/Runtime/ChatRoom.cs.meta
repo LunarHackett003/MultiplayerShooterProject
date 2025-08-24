@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 123dd94725681834294c44327d30dcb5
+AssetOrigin:
+  serializedVersion: 1
+  productId: 299310
+  packageName: Toolkit for Steamworks 2025 (for Unity 6+)
+  packageVersion: 4.1.4
+  assetPath: Packages/com.heathen.steamworks/Runtime/ChatRoom.cs
+  uploadId: 771989

@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 7967c43f6d9d8f143a4de7a49fb0ce1c
+AssetOrigin:
+  serializedVersion: 1
+  productId: 299310
+  packageName: Toolkit for Steamworks 2025 (for Unity 6+)
+  packageVersion: 4.1.4
+  assetPath: Packages/com.heathen.steamworks/Runtime/SteamGameServerEvents.cs
+  uploadId: 771989

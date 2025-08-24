@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: d356eca2408591d40a80294b45552b80
+AssetOrigin:
+  serializedVersion: 1
+  productId: 299310
+  packageName: Toolkit for Steamworks 2025 (for Unity 6+)
+  packageVersion: 4.1.4
+  assetPath: Packages/com.heathen.steamworks/Runtime/API.Input.cs
+  uploadId: 771989

@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 5e6e48212f0851b49936ba056627a43e
+AssetOrigin:
+  serializedVersion: 1
+  productId: 299310
+  packageName: Toolkit for Steamworks 2025 (for Unity 6+)
+  packageVersion: 4.1.4
+  assetPath: Packages/com.heathen.steamworks/Runtime/uGUI/UserInviteButton.cs
+  uploadId: 771989

@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 038d1067fbc84604f9e35cf591d081ef
+AssetOrigin:
+  serializedVersion: 1
+  productId: 299310
+  packageName: Toolkit for Steamworks 2025 (for Unity 6+)
+  packageVersion: 4.1.4
+  assetPath: Packages/com.heathen.steamworks/Editor/lobbyTool.cs
+  uploadId: 771989

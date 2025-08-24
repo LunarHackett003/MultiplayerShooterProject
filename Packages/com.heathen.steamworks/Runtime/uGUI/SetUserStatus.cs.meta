@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 2fac5099c3782a547a9616316fd71c22
+AssetOrigin:
+  serializedVersion: 1
+  productId: 299310
+  packageName: Toolkit for Steamworks 2025 (for Unity 6+)
+  packageVersion: 4.1.4
+  assetPath: Packages/com.heathen.steamworks/Runtime/uGUI/SetUserStatus.cs
+  uploadId: 771989

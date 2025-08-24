@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: fbcf15cd3f271024081f0ccc649376f6
+AssetOrigin:
+  serializedVersion: 1
+  productId: 299310
+  packageName: Toolkit for Steamworks 2025 (for Unity 6+)
+  packageVersion: 4.1.4
+  assetPath: Packages/com.heathen.steamworks/Runtime/LeaderboardUGCSet.cs
+  uploadId: 771989

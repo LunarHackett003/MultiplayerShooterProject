@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 9655a5e040de2ce479e1d8460c846672
+AssetOrigin:
+  serializedVersion: 1
+  productId: 299310
+  packageName: Toolkit for Steamworks 2025 (for Unity 6+)
+  packageVersion: 4.1.4
+  assetPath: Packages/com.heathen.steamworks/Runtime/API.Overlay.cs
+  uploadId: 771989

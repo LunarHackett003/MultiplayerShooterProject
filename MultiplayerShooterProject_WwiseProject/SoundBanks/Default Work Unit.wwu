@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{8FFAE281-68D8-421B-AB2B-6D59333619C2}" SchemaVersion="123">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{8FFAE281-68D8-421B-AB2B-6D59333619C2}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="Interactions" ID="{7513A224-5883-42BD-9F81-A669D75D18D4}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Interactions" ID="{D4D1B980-05C6-4D0F-99DB-A94AC68BCD27}" WorkUnitID="{F699340E-8ADD-4C84-BE34-2AAA58B3E094}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="Environment" ID="{2F5BBA0A-3CF9-4E90-BA07-87367B0447F9}">
+					<ObjectInclusionList/>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="Weapons" ID="{FB3F6939-65E1-4618-B900-28DC24F102B8}">
+					<ObjectInclusionList/>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="Character" ID="{86082E47-6419-4931-B448-DD67CCBCDB99}">
+					<ObjectInclusionList/>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="Dialogue" ID="{DEE3C79A-A5EB-4162-A651-00A4CD5F50BF}">
+					<ObjectInclusionList/>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="Gadgets" ID="{0CB64821-B41C-434B-BB8D-489064E22391}">
+					<ObjectInclusionList/>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: d938a912c0539ad4b8bff93ae61f1138
+AssetOrigin:
+  serializedVersion: 1
+  productId: 299310
+  packageName: Toolkit for Steamworks 2025 (for Unity 6+)
+  packageVersion: 4.1.4
+  assetPath: Packages/com.heathen.steamworks/Runtime/uGUI/WorkshopBrowserControl.cs
+  uploadId: 771989

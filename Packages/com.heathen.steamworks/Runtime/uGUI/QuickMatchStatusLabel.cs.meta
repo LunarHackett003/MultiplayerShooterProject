@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 18a00329b90ca0a4ab592c65c6d7ebd2
+AssetOrigin:
+  serializedVersion: 1
+  productId: 299310
+  packageName: Toolkit for Steamworks 2025 (for Unity 6+)
+  packageVersion: 4.1.4
+  assetPath: Packages/com.heathen.steamworks/Runtime/uGUI/QuickMatchStatusLabel.cs
+  uploadId: 771989

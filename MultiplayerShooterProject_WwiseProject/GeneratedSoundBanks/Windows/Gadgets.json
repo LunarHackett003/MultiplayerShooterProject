@@ -1,0 +1,21 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "1448201964",
+    "Type": "User",
+    "GUID": "{0CB64821-B41C-434B-BB8D-489064E22391}",
+    "Language": "SFX",
+    "Hash": "{D2420FB8-383D-BD1A-D198-B1B370BC787D}",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\Gadgets",
+    "ShortName": "Gadgets",
+    "Path": "Gadgets.bnk"
+   }
+  ],
+  "FileHash": "{9BB6EB4A-80A5-AF9D-CC15-C38C4FAC47C8}"
+ }
+}

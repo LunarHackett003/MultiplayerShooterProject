@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: d5b0d9f68c5bd2b419c4b70acc012ed1
+AssetOrigin:
+  serializedVersion: 1
+  productId: 299310
+  packageName: Toolkit for Steamworks 2025 (for Unity 6+)
+  packageVersion: 4.1.4
+  assetPath: Packages/com.heathen.steamworks/Samples~/Examples/LobbyMemberListLogic.cs
+  uploadId: 771989

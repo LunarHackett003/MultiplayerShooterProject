@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: baecbf938d4a4af448c4f6461a30c3c9
+AssetOrigin:
+  serializedVersion: 1
+  productId: 299310
+  packageName: Toolkit for Steamworks 2025 (for Unity 6+)
+  packageVersion: 4.1.4
+  assetPath: Packages/com.heathen.steamworks/Runtime/VoiceStream.cs
+  uploadId: 771989

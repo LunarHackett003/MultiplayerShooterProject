@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: f8dada12402c9d6459b96dc77d7e3ca0
+AssetOrigin:
+  serializedVersion: 1
+  productId: 299310
+  packageName: Toolkit for Steamworks 2025 (for Unity 6+)
+  packageVersion: 4.1.4
+  assetPath: Packages/com.heathen.steamworks/Runtime/LeaderboardScores.cs
+  uploadId: 771989

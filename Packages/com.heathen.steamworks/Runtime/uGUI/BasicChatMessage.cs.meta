@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 34104b2b36aae8c4fa7b1db442d1807e
+AssetOrigin:
+  serializedVersion: 1
+  productId: 299310
+  packageName: Toolkit for Steamworks 2025 (for Unity 6+)
+  packageVersion: 4.1.4
+  assetPath: Packages/com.heathen.steamworks/Runtime/uGUI/BasicChatMessage.cs
+  uploadId: 771989

@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: d1193611ecf66804baa082424fe53b28
+AssetOrigin:
+  serializedVersion: 1
+  productId: 299310
+  packageName: Toolkit for Steamworks 2025 (for Unity 6+)
+  packageVersion: 4.1.4
+  assetPath: Packages/com.heathen.steamworks/Runtime/Events/UserDataEvent.cs
+  uploadId: 771989

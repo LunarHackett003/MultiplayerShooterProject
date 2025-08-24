@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: a89122f3d2ffc6f4587e8ab18c97120f
+AssetOrigin:
+  serializedVersion: 1
+  productId: 299310
+  packageName: Toolkit for Steamworks 2025 (for Unity 6+)
+  packageVersion: 4.1.4
+  assetPath: Packages/com.heathen.steamworks/Runtime/Data/StatData.cs
+  uploadId: 771989

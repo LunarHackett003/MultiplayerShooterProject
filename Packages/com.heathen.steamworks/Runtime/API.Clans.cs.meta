@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: cb2ceaa2702b95340b9b0b8a024a5955
+AssetOrigin:
+  serializedVersion: 1
+  productId: 299310
+  packageName: Toolkit for Steamworks 2025 (for Unity 6+)
+  packageVersion: 4.1.4
+  assetPath: Packages/com.heathen.steamworks/Runtime/API.Clans.cs
+  uploadId: 771989

@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 37f6613191428374ebdd169717e59b63
+AssetOrigin:
+  serializedVersion: 1
+  productId: 299310
+  packageName: Toolkit for Steamworks 2025 (for Unity 6+)
+  packageVersion: 4.1.4
+  assetPath: Packages/com.heathen.steamworks/Samples~/Examples/Code Snipits/Snipit_LeaderboardObject.cs
+  uploadId: 771989

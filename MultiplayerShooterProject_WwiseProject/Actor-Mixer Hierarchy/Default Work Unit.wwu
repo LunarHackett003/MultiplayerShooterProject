@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{539CD260-DDBF-4D5B-87E4-AF15D09EC8DB}" SchemaVersion="123">
+	<AudioObjects>
+		<WorkUnit Name="Default Work Unit" ID="{539CD260-DDBF-4D5B-87E4-AF15D09EC8DB}" PersistMode="Standalone">
+			<ChildrenList>
+				<Sound Name="JumpPadSFX" ID="{ED51B32F-4E0B-40BF-B5C6-FF92E0F2F30B}" ShortID="693121932">
+					<PropertyList>
+						<Property Name="3DSpatialization" Type="int16" Value="1"/>
+						<Property Name="Pitch" Type="int32">
+							<ModifierList>
+								<ModifierInfo>
+									<Modifier Name="" ID="{3F2775C8-66B6-431C-A8E4-E38AA5DE9D39}">
+										<PropertyList>
+											<Property Name="Enabled" Type="bool" Value="True"/>
+											<Property Name="Max" Type="Real64" Value="100"/>
+											<Property Name="Min" Type="Real64" Value="-100"/>
+										</PropertyList>
+									</Modifier>
+								</ModifierInfo>
+							</ModifierList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Attenuation">
+							<ObjectRef Name="Default" ID="{792EFC48-4EFE-478B-81A4-62502A39C0F6}" WorkUnitID="{DEA65F03-9328-446F-8D6D-F650F3735F77}"/>
+						</Reference>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{76CE5D6F-5919-4333-B695-0B4D626A4346}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{165E6707-00E1-463D-9866-6427F1F63B45}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="JumpPadSFX" ID="{B3089BDB-FF98-48AE-871F-03672FDB9EF4}">
+							<Language>SFX</Language>
+							<AudioFile>JumpPadSFX.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="26680394"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="JumpPadSFX" ID="{B3089BDB-FF98-48AE-871F-03672FDB9EF4}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>

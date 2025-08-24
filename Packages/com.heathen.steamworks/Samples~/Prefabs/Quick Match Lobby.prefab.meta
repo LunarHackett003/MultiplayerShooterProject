@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e25512e0900c03c4fb8dbaf9b417a46e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 299310
+  packageName: Toolkit for Steamworks 2025 (for Unity 6+)
+  packageVersion: 4.1.4
+  assetPath: Packages/com.heathen.steamworks/Samples~/Prefabs/Quick Match Lobby.prefab
+  uploadId: 771989

@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 9ad95183b1ff16540987a5ff0b32c90e
+AssetOrigin:
+  serializedVersion: 1
+  productId: 299310
+  packageName: Toolkit for Steamworks 2025 (for Unity 6+)
+  packageVersion: 4.1.4
+  assetPath: Packages/com.heathen.steamworks/Runtime/RichPresenceReader.cs
+  uploadId: 771989

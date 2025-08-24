@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{F699340E-8ADD-4C84-BE34-2AAA58B3E094}" SchemaVersion="123">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{F699340E-8ADD-4C84-BE34-2AAA58B3E094}" PersistMode="Standalone">
+			<ChildrenList>
+				<Folder Name="Environment" ID="{EB1E0ED4-94AB-4C99-9F79-5DDC6A5034B1}" ShortID="98860062"/>
+				<Folder Name="Interactions" ID="{D4D1B980-05C6-4D0F-99DB-A94AC68BCD27}" ShortID="932179981">
+					<ChildrenList>
+						<Event Name="JumpPadUsed" ID="{3A2C726C-6A6A-4BC2-9632-E72ECD314133}">
+							<ChildrenList>
+								<Action Name="" ID="{0830B0E7-ADFD-4DD8-8ABD-331B86998630}" ShortID="340158494">
+									<PropertyList>
+										<Property Name="FadeTime" Type="Real64" Value="0.1"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="JumpPadSFX" ID="{ED51B32F-4E0B-40BF-B5C6-FF92E0F2F30B}" WorkUnitID="{539CD260-DDBF-4D5B-87E4-AF15D09EC8DB}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+				<Folder Name="Character" ID="{38B0BD5B-013E-4C80-B92F-B789E192BC35}" ShortID="582860653"/>
+				<Folder Name="Dialogue" ID="{18633B2F-CDB7-4EB0-9F0A-BE671265B1D1}" ShortID="985167726"/>
+				<Folder Name="Weapons" ID="{DF9B6E10-DCC1-483C-B8AA-E817885F097F}" ShortID="932492321"/>
+				<Folder Name="Gadgets" ID="{A97C356F-D962-497E-9920-A984CAF110E5}" ShortID="489138598"/>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

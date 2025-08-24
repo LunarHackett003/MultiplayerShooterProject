@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 741d730e228261347a5d40da1c942490
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 299310
+  packageName: Toolkit for Steamworks 2025 (for Unity 6+)
+  packageVersion: 4.1.4
+  assetPath: Packages/com.heathen.steamworks/Samples~/Prefabs/Friend Profile.prefab
+  uploadId: 771989

@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: d2f6eb34e8643ec4ca0633a1e7bc7d73
+AssetOrigin:
+  serializedVersion: 1
+  productId: 299310
+  packageName: Toolkit for Steamworks 2025 (for Unity 6+)
+  packageVersion: 4.1.4
+  assetPath: Packages/com.heathen.steamworks/Runtime/uGUI/LeaderboardUserEntry.cs
+  uploadId: 771989

@@ -1,0 +1,21 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "1467963052",
+    "Type": "User",
+    "GUID": "{FB3F6939-65E1-4618-B900-28DC24F102B8}",
+    "Language": "SFX",
+    "Hash": "{AFAC5A2A-2F13-A84D-F22D-A9ADB36B7BDB}",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\Weapons",
+    "ShortName": "Weapons",
+    "Path": "Weapons.bnk"
+   }
+  ],
+  "FileHash": "{759F4708-AC84-0EC2-6242-A98DD4CD8411}"
+ }
+}

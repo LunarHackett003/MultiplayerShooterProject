@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 9de4f38635ff51c4d91b1084d2eab81a
+AssetOrigin:
+  serializedVersion: 1
+  productId: 299310
+  packageName: Toolkit for Steamworks 2025 (for Unity 6+)
+  packageVersion: 4.1.4
+  assetPath: Packages/com.heathen.steamworks/Runtime/Events/UserGeneratedContentItemQueryEvent.cs
+  uploadId: 771989

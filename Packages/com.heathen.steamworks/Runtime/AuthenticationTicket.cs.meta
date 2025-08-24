@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 2273334e059eccc44b93db8933c8e2d0
+AssetOrigin:
+  serializedVersion: 1
+  productId: 299310
+  packageName: Toolkit for Steamworks 2025 (for Unity 6+)
+  packageVersion: 4.1.4
+  assetPath: Packages/com.heathen.steamworks/Runtime/AuthenticationTicket.cs
+  uploadId: 771989

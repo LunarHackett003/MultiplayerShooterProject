@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 61e6e27403a4f664eb4764da3e8363f8
+AssetOrigin:
+  serializedVersion: 1
+  productId: 299310
+  packageName: Toolkit for Steamworks 2025 (for Unity 6+)
+  packageVersion: 4.1.4
+  assetPath: Packages/com.heathen.steamworks/Runtime/API.Matchmaking.cs
+  uploadId: 771989

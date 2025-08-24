@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1228060003	JumpPadUsed			\Default Work Unit\Interactions\JumpPadUsed	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	26680394	JumpPadSFX	D:\MultiplayerGameV2\MultiplayerShooterProject\MultiplayerShooterProject_WwiseProject\.cache\98\{980B1B81-66FE-E147-FB71-6AC20CD78062}.wem		\Actor-Mixer Hierarchy\Default Work Unit\JumpPadSFX		233356
+

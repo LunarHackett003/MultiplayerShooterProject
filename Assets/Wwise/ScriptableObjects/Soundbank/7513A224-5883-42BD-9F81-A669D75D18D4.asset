@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e4806234b4b180c499497b78d58dd5a8, type: 3}
+  m_Name: 7513A224-5883-42BD-9F81-A669D75D18D4
+  m_EditorClassIdentifier: 
+  objectName: Interactions
+  id: 888201102
+  guid: 7513A224-5883-42BD-9F81-A669D75D18D4

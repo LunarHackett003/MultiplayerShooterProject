@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 4113cf4cd300fd642b93995e7de6155a
+AssetOrigin:
+  serializedVersion: 1
+  productId: 299310
+  packageName: Toolkit for Steamworks 2025 (for Unity 6+)
+  packageVersion: 4.1.4
+  assetPath: Packages/com.heathen.steamworks/Runtime/SearchArguments.cs
+  uploadId: 771989

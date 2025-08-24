@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: f74501c1157cd5b4891db276e8f4c08b
+AssetOrigin:
+  serializedVersion: 1
+  productId: 299310
+  packageName: Toolkit for Steamworks 2025 (for Unity 6+)
+  packageVersion: 4.1.4
+  assetPath: Packages/com.heathen.steamworks/Runtime/SteamServerConnectFailure.cs
+  uploadId: 771989

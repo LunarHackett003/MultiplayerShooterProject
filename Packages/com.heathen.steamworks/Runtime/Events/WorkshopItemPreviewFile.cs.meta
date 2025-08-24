@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: f516ae54f10f7d3428a042c1ca4c46ad
+AssetOrigin:
+  serializedVersion: 1
+  productId: 299310
+  packageName: Toolkit for Steamworks 2025 (for Unity 6+)
+  packageVersion: 4.1.4
+  assetPath: Packages/com.heathen.steamworks/Runtime/Events/WorkshopItemPreviewFile.cs
+  uploadId: 771989

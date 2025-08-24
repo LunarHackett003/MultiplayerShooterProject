@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5580c9bef57d1b945beaa6d6be5e7ded
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 299310
+  packageName: Toolkit for Steamworks 2025 (for Unity 6+)
+  packageVersion: 4.1.4
+  assetPath: Packages/com.heathen.steamworks/Samples~/Examples/Heathen.Steamworks.Examples.asmdef
+  uploadId: 771989

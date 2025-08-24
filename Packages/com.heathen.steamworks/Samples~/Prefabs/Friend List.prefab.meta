@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1a116ac71ac58ff4d84ce9276980bf09
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 299310
+  packageName: Toolkit for Steamworks 2025 (for Unity 6+)
+  packageVersion: 4.1.4
+  assetPath: Packages/com.heathen.steamworks/Samples~/Prefabs/Friend List.prefab
+  uploadId: 771989

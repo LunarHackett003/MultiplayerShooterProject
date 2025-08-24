@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 84f24bf801af7d94393697c6f2afd00d
+AssetOrigin:
+  serializedVersion: 1
+  productId: 299310
+  packageName: Toolkit for Steamworks 2025 (for Unity 6+)
+  packageVersion: 4.1.4
+  assetPath: Packages/com.heathen.steamworks/Runtime/MetadataTemplate.cs
+  uploadId: 771989

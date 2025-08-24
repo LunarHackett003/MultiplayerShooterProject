@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 14ec1460af3a4984a98e053065d54c61
+AssetOrigin:
+  serializedVersion: 1
+  productId: 299310
+  packageName: Toolkit for Steamworks 2025 (for Unity 6+)
+  packageVersion: 4.1.4
+  assetPath: Packages/com.heathen.steamworks/Runtime/API.RemotePlay.cs
+  uploadId: 771989

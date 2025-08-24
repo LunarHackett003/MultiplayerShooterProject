@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: a8cd7f959b3b5804289d90c5870ac256
+AssetOrigin:
+  serializedVersion: 1
+  productId: 299310
+  packageName: Toolkit for Steamworks 2025 (for Unity 6+)
+  packageVersion: 4.1.4
+  assetPath: Packages/com.heathen.steamworks/Samples~/Examples/WorkshopLogic.cs
+  uploadId: 771989

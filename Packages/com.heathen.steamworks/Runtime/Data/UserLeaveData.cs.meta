@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 73f26f779f69e994fa71543cc26a77cc
+AssetOrigin:
+  serializedVersion: 1
+  productId: 299310
+  packageName: Toolkit for Steamworks 2025 (for Unity 6+)
+  packageVersion: 4.1.4
+  assetPath: Packages/com.heathen.steamworks/Runtime/Data/UserLeaveData.cs
+  uploadId: 771989
